@@ -16,7 +16,7 @@ namespace Appptteme
         }
         public bool PassCheck(string pass)
         {
-            if (pass == "dinpix")
+            if (pass == "pass")
                 return true;
             else
                 return false;
