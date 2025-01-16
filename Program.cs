@@ -17,11 +17,11 @@
             {
                 
 
-                Console.WriteLine("1. Conectati-va ca PROFESOR \n2. Conectati-va ca STUDENT");
+                Console.WriteLine("1. Conectati-va ca PROFESOR \n2. Conectati-va ca STUDENT \n3. Exit");
                 optiune = int.Parse(Console.ReadLine());
-                if (optiune == 3)
+                if (optiune == 0)
                 {
-
+                    break;
                 }
                 else if (optiune == 1)
                 {
@@ -130,7 +130,7 @@
                                     {
                                         sum += temaList[j].get_grade();
                                     }
-                                    Console.WriteLine("Media este: " + sum / temaList.Count);
+                                    Console.WriteLine("Media este: " + sum / (temaList.Count-1));
                                     break;
                                 case 4:
                                     for (int i = 0; i < temaList.Count; i++)
