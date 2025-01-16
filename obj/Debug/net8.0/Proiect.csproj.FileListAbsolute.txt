@@ -1,0 +1,14 @@
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.AssemblyInfo.cs
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Ciprian\source\repos\Proiect\Proiect\bin\Debug\net8.0\Proiect.exe
+C:\Users\Ciprian\source\repos\Proiect\Proiect\bin\Debug\net8.0\Proiect.deps.json
+C:\Users\Ciprian\source\repos\Proiect\Proiect\bin\Debug\net8.0\Proiect.runtimeconfig.json
+C:\Users\Ciprian\source\repos\Proiect\Proiect\bin\Debug\net8.0\Proiect.dll
+C:\Users\Ciprian\source\repos\Proiect\Proiect\bin\Debug\net8.0\Proiect.pdb
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.dll
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\refint\Proiect.dll
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.pdb
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\Proiect.genruntimeconfig.cache
+C:\Users\Ciprian\source\repos\Proiect\Proiect\obj\Debug\net8.0\ref\Proiect.dll
